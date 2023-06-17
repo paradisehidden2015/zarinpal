@@ -564,6 +564,14 @@ footer .left .social a {
   background-color: #fefefe;
   transition: all 0.2s linear;
 }
+footer .left .social a i {
+  position: relative;
+  top: 15%;
+  left: 0;
+  /* transform: translate(-50%, -50%); */
+  /* text-align: center; */
+  /* line-height: 50%; */
+}
 footer .left .social a:hover {
   transform: scale(1.5);
   top: -20px;
